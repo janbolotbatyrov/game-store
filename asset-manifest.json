@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/janbolotbatyrov/game-store/static/css/main.f669a990.css",
+    "main.js": "/janbolotbatyrov/game-store/static/js/main.88c7467c.js",
+    "index.html": "/janbolotbatyrov/game-store/index.html",
+    "main.f669a990.css.map": "/janbolotbatyrov/game-store/static/css/main.f669a990.css.map",
+    "main.88c7467c.js.map": "/janbolotbatyrov/game-store/static/js/main.88c7467c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f669a990.css",
+    "static/js/main.88c7467c.js"
+  ]
+}
